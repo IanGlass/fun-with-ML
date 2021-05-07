@@ -1,6 +1,8 @@
 # fun-with-ML
 An overview comparing different models on a Mammogram and Iris data set.
 
+**Requires Jupyter Notebook to run locally**
+
 Comparisons are made with the following models:
 - Decision Trees (including random forests)
 - Support Vector Machine (SVM)
